@@ -75,6 +75,11 @@
 </a>
 
 
+<a href="https://github.com/Pasinduimalsha/personal_financial_tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasinduimalsha&repo=personal_financial_tracker&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@imalsha_pasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imalsha_pasindu" height="30" width="40" /></a>
