@@ -50,7 +50,6 @@
 
 ## 🏆 GitHub Trophies
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7a2a2fda-b684-407e-9a87-130946f39599" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pasinduimalsha&theme=nord&column=auto)](https://github.com/ryo-ma/github-profile-trophy)
 
