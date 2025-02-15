@@ -1,9 +1,9 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 <h1 align="center">Hi 👋, I'm Pasindu Mallawarachchi</h1>
 <h3 align="center">The Journey of a Passionate Sri Lankan Full-Stack Alchemist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasinduimalsha&label=Profile%20views&color=0e75b6&style=flat" alt="pasinduimalsha" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="400">
+
 <p align="left"> <a href="https://twitter.com/@imalsha_pasindu" target="blank"><img src="https://img.shields.io/twitter/follow/@imalsha_pasindu?logo=twitter&style=for-the-badge" alt="@imalsha_pasindu" /></a> </p>
 
 - 🔭 I’m currently working on **Healthcare**
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Real Time Chat App**
 
-- 💬 Ask me about **MERN|MEAN|Flutter|.NET|Java|SpringBoot**
+- 💬 Ask me about **MERN|MEAN|Java|SpringBoot**
 
 - 📫 How to reach me **mailtopasindumallawarachchi@gmail.com**
 
